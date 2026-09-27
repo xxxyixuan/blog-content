@@ -1,0 +1,13 @@
+# macOS-specific files
+.DS_Store
+
+# jetbrains setting folder
+.idea/
+
+# ai folder
+.trae/
+.zcode/
+.workbuddy/
+.workbuddy-ai/
+
+.tmp/
